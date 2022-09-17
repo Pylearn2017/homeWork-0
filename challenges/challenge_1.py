@@ -1,2 +1,3 @@
 def main():
-  pass
+  name = input()
+  print(f'Hello {name}')
